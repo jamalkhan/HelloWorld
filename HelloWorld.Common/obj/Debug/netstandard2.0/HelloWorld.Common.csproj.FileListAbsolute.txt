@@ -1,0 +1,9 @@
+/Users/jamal/Projects/HelloWorld/HelloWorld.Common/bin/Debug/netstandard2.0/HelloWorld.Common.deps.json
+/Users/jamal/Projects/HelloWorld/HelloWorld.Common/bin/Debug/netstandard2.0/HelloWorld.Common.dll
+/Users/jamal/Projects/HelloWorld/HelloWorld.Common/bin/Debug/netstandard2.0/HelloWorld.Common.pdb
+/Users/jamal/Projects/HelloWorld/HelloWorld.Common/obj/Debug/netstandard2.0/HelloWorld.Common.csprojResolveAssemblyReference.cache
+/Users/jamal/Projects/HelloWorld/HelloWorld.Common/obj/Debug/netstandard2.0/HelloWorld.Common.csproj.CoreCompileInputs.cache
+/Users/jamal/Projects/HelloWorld/HelloWorld.Common/obj/Debug/netstandard2.0/HelloWorld.Common.AssemblyInfoInputs.cache
+/Users/jamal/Projects/HelloWorld/HelloWorld.Common/obj/Debug/netstandard2.0/HelloWorld.Common.AssemblyInfo.cs
+/Users/jamal/Projects/HelloWorld/HelloWorld.Common/obj/Debug/netstandard2.0/HelloWorld.Common.dll
+/Users/jamal/Projects/HelloWorld/HelloWorld.Common/obj/Debug/netstandard2.0/HelloWorld.Common.pdb

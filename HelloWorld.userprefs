@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AA0FD872-C1C5-47B4-81F3-3BE7C019D548}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorldConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld.Api.Tests/HelloWorldTests.cs">
+    <Files>
+      <File FileName="HelloWorldConsole/Program.cs" Line="21" Column="13" />
+      <File FileName="HelloWorld.Common/IHelloProvider.cs" Line="7" Column="36" />
+      <File FileName="HelloWorld.Database/DatabaseHelloProvider.cs" Line="16" Column="10" />
+      <File FileName="HelloWorld.NoDatabase/MemoryHelloProvider.cs" Line="6" Column="18" />
+      <File FileName="HelloWorld.Api/Controllers/HelloController.cs" Line="8" Column="10" />
+      <File FileName="HelloWorld.Api/Startup.cs" Line="29" Column="31" />
+      <File FileName="HelloWorld.Api/Program.cs" Line="1" Column="1" />
+      <File FileName="HelloWorld.Common/ApiHelper.cs" Line="14" Column="1" />
+      <File FileName="HelloWorldConsole/app.config" Line="2" Column="16" />
+      <File FileName="HelloWorldConsole/appsettings.json" Line="2" Column="39" />
+      <File FileName="HelloWorld.Api.Tests/HelloWorldTests.cs" Line="15" Column="18" />
+      <File FileName="HelloWorld.Api/appsettings.json" Line="1" Column="1" />
+      <File FileName="HelloWorld.Api/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

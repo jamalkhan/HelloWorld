@@ -1,0 +1,14 @@
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/bin/Debug/netcoreapp2.0/HelloWorldConsole.deps.json
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/bin/Debug/netcoreapp2.0/HelloWorldConsole.runtimeconfig.json
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/bin/Debug/netcoreapp2.0/HelloWorldConsole.runtimeconfig.dev.json
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/bin/Debug/netcoreapp2.0/HelloWorldConsole.dll
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/bin/Debug/netcoreapp2.0/HelloWorldConsole.pdb
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/obj/Debug/netcoreapp2.0/HelloWorldConsole.csprojResolveAssemblyReference.cache
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/obj/Debug/netcoreapp2.0/HelloWorldConsole.csproj.CoreCompileInputs.cache
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/obj/Debug/netcoreapp2.0/HelloWorldConsole.AssemblyInfoInputs.cache
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/obj/Debug/netcoreapp2.0/HelloWorldConsole.AssemblyInfo.cs
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/obj/Debug/netcoreapp2.0/HelloWorldConsole.dll
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/obj/Debug/netcoreapp2.0/HelloWorldConsole.pdb
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/bin/Debug/netcoreapp2.0/HelloWorldConsole.dll.config
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/bin/Debug/netcoreapp2.0/HelloWorld.Common.dll
+/Users/jamal/Projects/HelloWorld/HelloWorldConsole/bin/Debug/netcoreapp2.0/HelloWorld.Common.pdb
